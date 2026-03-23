@@ -1,13 +1,16 @@
+import java.util.HashSet;
 class Solution {
     public int missingNumber(int[] nums) {
-        int n=nums.length;
-        int x1=0,x2=0;
-        for(int i=0;i<n;i++){
-            x1^=nums[i];
-        }
-        for(int i=1;i<=n;i++){
-            x2^=i;
-        }
-        return x2^x1;
+        int value=0;
+       HashSet<Integer>h=new HashSet<>();
+       for(int i=0;i<nums.length;i++){
+        h.add(nums[i]);
+       }
+       for(int i=0;i<=nums.length;i++){
+       if(!(h.contains(i))){
+        value=i;break;
+       }
+       }
+       return value;
     }
 }
