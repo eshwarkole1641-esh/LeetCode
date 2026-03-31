@@ -6,7 +6,7 @@ class Solution {
             max=Math.max(runSum,max);
             if(runSum<0){
                 runSum=0;
-                // continue;
+            
             }
             
         }
