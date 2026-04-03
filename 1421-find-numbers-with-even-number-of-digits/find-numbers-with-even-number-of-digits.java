@@ -3,11 +3,15 @@ class Solution {
         StringBuilder sb=new StringBuilder();
         int count=0;
         for(int i=0;i<nums.length;i++){
-            sb.append(nums[i]);
-            if(sb.length()%2==0){
-                count++;
-            }
-            sb.delete(0,sb.length());
+        int n=nums[i];
+        int check=0;
+        while(n>0){
+          check++;
+          n/=10;
+        }
+        if(check%2==0){
+            count++;
+        }
         }
         return count;
     }
