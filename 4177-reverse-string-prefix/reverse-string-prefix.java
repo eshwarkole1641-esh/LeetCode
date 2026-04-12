@@ -9,9 +9,7 @@ class Solution {
         for(int i=k-1;i>=0;i--){
             sb.append(s.charAt(i));
         }
-        for(int i=k;i<s.length();i++){
-            sb.append(s.charAt(i));
-        }
+        sb.append(s.substring(k));
        return sb.toString();
     }
 }
