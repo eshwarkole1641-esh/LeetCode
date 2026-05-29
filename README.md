@@ -33,4 +33,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/0169-majority-element/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2490-circular-sentence](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/2490-circular-sentence/) | Easy |
 <!---LeetCode Topics End-->
