@@ -1,6 +1,7 @@
 import java.util.*;
 class Solution {
     public int digitFrequencyScore(int n) {
+        if(n==0)return 0;
 
         HashMap<Integer,Integer>hm=new HashMap<>();
         while(n>0){
@@ -9,8 +10,9 @@ class Solution {
              n/=10;
         }
         int sum=0;
-        for(int key:hm.keySet()){
-            int value=hm.get(key);
+        for(Map.Entry<Integer,Integer>entry:hm.entrySet()){
+            int key=entry.getKey();
+            int value=entry.getValue();
             sum+=(value*key);
         }
         return sum;
