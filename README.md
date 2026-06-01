@@ -37,5 +37,6 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2315-count-asterisks](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/2315-count-asterisks/) | Easy |
 | [2490-circular-sentence](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/2490-circular-sentence/) | Easy |
 <!---LeetCode Topics End-->
