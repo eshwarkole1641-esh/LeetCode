@@ -16,6 +16,7 @@
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3360-stone-removal-game](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/3360-stone-removal-game/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3648-minimum-sensors-to-cover-grid](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/3648-minimum-sensors-to-cover-grid/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
