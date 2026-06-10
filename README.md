@@ -45,6 +45,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/1974-minimum-time-to-type-word-using-special-typewriter/) | Easy |
 | [2315-count-asterisks](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/2315-count-asterisks/) | Easy |
 | [2490-circular-sentence](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/2490-circular-sentence/) | Easy |
 ## Simulation
@@ -63,4 +64,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0733-flood-fill](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/0733-flood-fill/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/1974-minimum-time-to-type-word-using-special-typewriter/) | Easy |
 <!---LeetCode Topics End-->
