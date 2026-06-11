@@ -10,6 +10,7 @@
 | [3285-find-indices-of-stable-mountains](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/3285-find-indices-of-stable-mountains/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/3852-smallest-pair-with-different-frequencies/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -18,6 +19,7 @@
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3360-stone-removal-game](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/3360-stone-removal-game/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3648-minimum-sensors-to-cover-grid](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/3648-minimum-sensors-to-cover-grid/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
@@ -28,6 +30,7 @@
 | ------- | ------- |
 | [0169-majority-element](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/3852-smallest-pair-with-different-frequencies/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -41,6 +44,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/0169-majority-element/) | Easy |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/3852-smallest-pair-with-different-frequencies/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -68,4 +72,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/1974-minimum-time-to-type-word-using-special-typewriter/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 <!---LeetCode Topics End-->
