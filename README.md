@@ -7,6 +7,7 @@
 | [0169-majority-element](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0733-flood-fill](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [1266-minimum-time-visiting-all-points](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
+| [2367-number-of-arithmetic-triplets](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/2789-largest-element-in-an-array-after-merge-operations/) | Medium |
 | [3285-find-indices-of-stable-mountains](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/3285-find-indices-of-stable-mountains/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
@@ -30,6 +31,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/0169-majority-element/) | Easy |
+| [2367-number-of-arithmetic-triplets](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/3852-smallest-pair-with-different-frequencies/) | Easy |
@@ -78,4 +80,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2367-number-of-arithmetic-triplets](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2367-number-of-arithmetic-triplets](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 <!---LeetCode Topics End-->
