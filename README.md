@@ -11,6 +11,7 @@
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/2789-largest-element-in-an-array-after-merge-operations/) | Medium |
 | [3285-find-indices-of-stable-mountains](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/3285-find-indices-of-stable-mountains/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/3852-smallest-pair-with-different-frequencies/) | Easy |
@@ -21,6 +22,7 @@
 | [2591-distribute-money-to-maximum-children](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/2591-distribute-money-to-maximum-children/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3360-stone-removal-game](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/3360-stone-removal-game/) | Easy |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3648-minimum-sensors-to-cover-grid](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/3648-minimum-sensors-to-cover-grid/) | Medium |
@@ -90,4 +92,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2367-number-of-arithmetic-triplets](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 <!---LeetCode Topics End-->
