@@ -20,6 +20,7 @@
 | ------- | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 | [2591-distribute-money-to-maximum-children](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/2591-distribute-money-to-maximum-children/) | Easy |
+| [3099-harshad-number](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/3099-harshad-number/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3360-stone-removal-game](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/3360-stone-removal-game/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
