@@ -59,6 +59,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/1974-minimum-time-to-type-word-using-special-typewriter/) | Easy |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/2259-remove-digit-from-number-to-maximize-result/) | Easy |
 | [2315-count-asterisks](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/2315-count-asterisks/) | Easy |
 | [2490-circular-sentence](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/2490-circular-sentence/) | Easy |
 ## Simulation
@@ -82,6 +83,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/1974-minimum-time-to-type-word-using-special-typewriter/) | Easy |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/2259-remove-digit-from-number-to-maximize-result/) | Easy |
 | [2591-distribute-money-to-maximum-children](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/2591-distribute-money-to-maximum-children/) | Easy |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/2789-largest-element-in-an-array-after-merge-operations/) | Medium |
 ## Number Theory
@@ -95,6 +97,7 @@
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/2259-remove-digit-from-number-to-maximize-result/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
