@@ -8,6 +8,7 @@
 | [0733-flood-fill](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [1030-matrix-cells-in-distance-order](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/1030-matrix-cells-in-distance-order/) | Easy |
 | [1266-minimum-time-visiting-all-points](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
+| [1331-rank-transform-of-an-array](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/2789-largest-element-in-an-array-after-merge-operations/) | Medium |
 | [3285-find-indices-of-stable-mountains](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/3285-find-indices-of-stable-mountains/) | Easy |
@@ -41,6 +42,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/0169-majority-element/) | Easy |
+| [1331-rank-transform-of-an-array](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
@@ -54,6 +56,7 @@
 | ------- | ------- |
 | [0169-majority-element](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [1030-matrix-cells-in-distance-order](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/1030-matrix-cells-in-distance-order/) | Easy |
+| [1331-rank-transform-of-an-array](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
