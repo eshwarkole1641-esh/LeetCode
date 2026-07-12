@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0169-majority-element](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0733-flood-fill](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/0733-flood-fill/) | Easy |
+| [1030-matrix-cells-in-distance-order](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/1030-matrix-cells-in-distance-order/) | Easy |
 | [1266-minimum-time-visiting-all-points](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/2789-largest-element-in-an-array-after-merge-operations/) | Medium |
@@ -19,6 +20,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1030-matrix-cells-in-distance-order](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/1030-matrix-cells-in-distance-order/) | Easy |
 | [1266-minimum-time-visiting-all-points](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 | [2591-distribute-money-to-maximum-children](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/2591-distribute-money-to-maximum-children/) | Easy |
 | [2739-total-distance-traveled](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/2739-total-distance-traveled/) | Easy |
@@ -33,6 +35,7 @@
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1030-matrix-cells-in-distance-order](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/1030-matrix-cells-in-distance-order/) | Easy |
 | [1266-minimum-time-visiting-all-points](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -50,6 +53,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/0169-majority-element/) | Easy |
+| [1030-matrix-cells-in-distance-order](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/1030-matrix-cells-in-distance-order/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -80,6 +84,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0733-flood-fill](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/0733-flood-fill/) | Easy |
+| [1030-matrix-cells-in-distance-order](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/1030-matrix-cells-in-distance-order/) | Easy |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/3402-minimum-operations-to-make-columns-strictly-increasing/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
