@@ -7,6 +7,7 @@
 | [0169-majority-element](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0733-flood-fill](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [1030-matrix-cells-in-distance-order](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/1030-matrix-cells-in-distance-order/) | Easy |
+| [1184-distance-between-bus-stops](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/1184-distance-between-bus-stops/) | Easy |
 | [1266-minimum-time-visiting-all-points](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
