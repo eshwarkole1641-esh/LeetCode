@@ -116,4 +116,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3226-number-of-bit-changes-to-make-two-integers-equal](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/3226-number-of-bit-changes-to-make-two-integers-equal/) | Easy |
 <!---LeetCode Topics End-->
