@@ -16,6 +16,7 @@
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/3402-minimum-operations-to-make-columns-strictly-increasing/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
+| [3477-fruits-into-baskets-ii](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/3852-smallest-pair-with-different-frequencies/) | Easy |
@@ -76,6 +77,7 @@
 | ------- | ------- |
 | [2739-total-distance-traveled](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/2739-total-distance-traveled/) | Easy |
 | [3360-stone-removal-game](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/3360-stone-removal-game/) | Easy |
+| [3477-fruits-into-baskets-ii](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -120,4 +122,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3226-number-of-bit-changes-to-make-two-integers-equal](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/3226-number-of-bit-changes-to-make-two-integers-equal/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/3477-fruits-into-baskets-ii/) | Easy |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/3477-fruits-into-baskets-ii/) | Easy |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 <!---LeetCode Topics End-->
