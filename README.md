@@ -10,6 +10,7 @@
 | [1184-distance-between-bus-stops](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/1184-distance-between-bus-stops/) | Easy |
 | [1266-minimum-time-visiting-all-points](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1773-count-items-matching-a-rule](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/1773-count-items-matching-a-rule/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/2789-largest-element-in-an-array-after-merge-operations/) | Medium |
 | [3285-find-indices-of-stable-mountains](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/3285-find-indices-of-stable-mountains/) | Easy |
@@ -68,6 +69,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1773-count-items-matching-a-rule](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/1773-count-items-matching-a-rule/) | Easy |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/1974-minimum-time-to-type-word-using-special-typewriter/) | Easy |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/2259-remove-digit-from-number-to-maximize-result/) | Easy |
 | [2315-count-asterisks](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/2315-count-asterisks/) | Easy |
