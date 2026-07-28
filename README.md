@@ -25,6 +25,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0069-sqrtx](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/0069-sqrtx/) | Easy |
 | [1030-matrix-cells-in-distance-order](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/1030-matrix-cells-in-distance-order/) | Easy |
 | [1266-minimum-time-visiting-all-points](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 | [2591-distribute-money-to-maximum-children](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/2591-distribute-money-to-maximum-children/) | Easy |
@@ -129,6 +130,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0069-sqrtx](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/0069-sqrtx/) | Easy |
 | [3477-fruits-into-baskets-ii](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 ## Segment Tree
 | Problem Name | Difficulty |
