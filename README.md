@@ -25,6 +25,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0050-powx-n](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/0050-powx-n/) | Medium |
 | [0069-sqrtx](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/0069-sqrtx/) | Easy |
 | [1030-matrix-cells-in-distance-order](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/1030-matrix-cells-in-distance-order/) | Easy |
 | [1266-minimum-time-visiting-all-points](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
@@ -144,4 +145,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0050-powx-n](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/0050-powx-n/) | Medium |
 <!---LeetCode Topics End-->
