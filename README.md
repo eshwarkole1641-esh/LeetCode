@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0169-majority-element](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0733-flood-fill](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/0733-flood-fill/) | Easy |
+| [0877-stone-game](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [1030-matrix-cells-in-distance-order](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/1030-matrix-cells-in-distance-order/) | Easy |
 | [1184-distance-between-bus-stops](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/1184-distance-between-bus-stops/) | Easy |
 | [1266-minimum-time-visiting-all-points](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
@@ -27,6 +28,7 @@
 | ------- | ------- |
 | [0050-powx-n](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/0050-powx-n/) | Medium |
 | [0069-sqrtx](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/0069-sqrtx/) | Easy |
+| [0877-stone-game](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [1030-matrix-cells-in-distance-order](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/1030-matrix-cells-in-distance-order/) | Easy |
 | [1266-minimum-time-visiting-all-points](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 | [2591-distribute-money-to-maximum-children](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/2591-distribute-money-to-maximum-children/) | Easy |
@@ -149,4 +151,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/0050-powx-n/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/0877-stone-game/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
