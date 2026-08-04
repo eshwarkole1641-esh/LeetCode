@@ -22,6 +22,7 @@
 | [3477-fruits-into-baskets-ii](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
+| [3731-find-missing-elements](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/3852-smallest-pair-with-different-frequencies/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -54,6 +55,7 @@
 | [2367-number-of-arithmetic-triplets](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
+| [3731-find-missing-elements](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/3852-smallest-pair-with-different-frequencies/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -66,6 +68,7 @@
 | [1030-matrix-cells-in-distance-order](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/1030-matrix-cells-in-distance-order/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [3731-find-missing-elements](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
