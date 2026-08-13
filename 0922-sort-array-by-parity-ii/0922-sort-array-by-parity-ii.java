@@ -4,27 +4,33 @@ class Solution {
         int arr[]=new int[n];
         int odd=1,even=0;
         for(int i=0;i<n;i++){
-            if(i%2==0){
                 if(nums[i]%2==0){
                     arr[even]=nums[i];
+                    // arr[even]=nums[i];
                     even+=2;
                 }
-                else{
-                    arr[odd]=nums[i];
-                     odd+=2;
-                }
-            }
-            else{
+            //     else{
+            //         arr[odd]=nums[i];
+            //          odd+=2;
+            //     }
+            // }
+            // else{
+            //     if(nums[i]%2!=0){
+            //         arr[odd]=nums[i];
+            //          odd+=2;
+            //     }
+            //     else{
+            //          arr[even]=nums[i];
+            //         even+=2;
+            //     }
+            
+        }
+         for(int i=0;i<n;i++){
                 if(nums[i]%2!=0){
                     arr[odd]=nums[i];
-                     odd+=2;
+                    odd+=2;
                 }
-                else{
-                     arr[even]=nums[i];
-                    even+=2;
-                }
-            }
-        }
+         }
         return arr;
     }
 }
