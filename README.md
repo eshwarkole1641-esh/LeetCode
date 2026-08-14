@@ -80,6 +80,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0830-positions-of-large-groups](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/0830-positions-of-large-groups/) | Easy |
 | [1773-count-items-matching-a-rule](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/1773-count-items-matching-a-rule/) | Easy |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/1974-minimum-time-to-type-word-using-special-typewriter/) | Easy |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/2259-remove-digit-from-number-to-maximize-result/) | Easy |
