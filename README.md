@@ -33,6 +33,7 @@
 | [0877-stone-game](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [1030-matrix-cells-in-distance-order](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/1030-matrix-cells-in-distance-order/) | Easy |
 | [1266-minimum-time-visiting-all-points](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [2591-distribute-money-to-maximum-children](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/2591-distribute-money-to-maximum-children/) | Easy |
 | [2739-total-distance-traveled](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/2739-total-distance-traveled/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
@@ -166,4 +167,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/0877-stone-game/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 <!---LeetCode Topics End-->
