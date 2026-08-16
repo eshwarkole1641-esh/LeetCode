@@ -39,6 +39,7 @@
 | [2769-find-the-maximum-achievable-number](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [3099-harshad-number](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/3099-harshad-number/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
+| [3345-smallest-divisible-digit-product-i](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3360-stone-removal-game](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/3360-stone-removal-game/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -130,6 +131,7 @@
 | [1291-sequential-digits](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/1291-sequential-digits/) | Medium |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/2259-remove-digit-from-number-to-maximize-result/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
+| [3345-smallest-divisible-digit-product-i](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
