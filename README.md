@@ -8,6 +8,7 @@
 | [0733-flood-fill](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0877-stone-game](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [0922-sort-array-by-parity-ii](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [1030-matrix-cells-in-distance-order](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/1030-matrix-cells-in-distance-order/) | Easy |
 | [1184-distance-between-bus-stops](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/1184-distance-between-bus-stops/) | Easy |
 | [1266-minimum-time-visiting-all-points](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
@@ -69,6 +70,7 @@
 | ------- | ------- |
 | [0169-majority-element](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [1030-matrix-cells-in-distance-order](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/1030-matrix-cells-in-distance-order/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -77,6 +79,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/0169-majority-element/) | Easy |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/3852-smallest-pair-with-different-frequencies/) | Easy |
 ## String
@@ -111,6 +114,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/1974-minimum-time-to-type-word-using-special-typewriter/) | Easy |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/2259-remove-digit-from-number-to-maximize-result/) | Easy |
 | [2591-distribute-money-to-maximum-children](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/2591-distribute-money-to-maximum-children/) | Easy |
