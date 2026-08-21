@@ -100,6 +100,7 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0733-flood-fill](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/0733-flood-fill/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -177,4 +178,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 <!---LeetCode Topics End-->
