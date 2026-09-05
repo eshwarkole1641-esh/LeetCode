@@ -17,6 +17,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1773-count-items-matching-a-rule](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/1773-count-items-matching-a-rule/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
+| [2549-count-distinct-numbers-on-board](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/2789-largest-element-in-an-array-after-merge-operations/) | Medium |
 | [3285-find-indices-of-stable-mountains](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/3285-find-indices-of-stable-mountains/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
@@ -36,6 +37,7 @@
 | [1030-matrix-cells-in-distance-order](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/1030-matrix-cells-in-distance-order/) | Easy |
 | [1266-minimum-time-visiting-all-points](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
+| [2549-count-distinct-numbers-on-board](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
 | [2591-distribute-money-to-maximum-children](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/2591-distribute-money-to-maximum-children/) | Easy |
 | [2739-total-distance-traveled](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/2739-total-distance-traveled/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
@@ -59,6 +61,7 @@
 | [0169-majority-element](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
+| [2549-count-distinct-numbers-on-board](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3731-find-missing-elements](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
@@ -96,6 +99,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2549-count-distinct-numbers-on-board](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
 | [2739-total-distance-traveled](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/2739-total-distance-traveled/) | Easy |
 | [3360-stone-removal-game](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/3360-stone-removal-game/) | Easy |
 | [3477-fruits-into-baskets-ii](https://github.com/eshwarkole1641-esh/LeetCode/tree/main/3477-fruits-into-baskets-ii/) | Easy |
